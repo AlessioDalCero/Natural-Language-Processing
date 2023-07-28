@@ -1,4 +1,4 @@
-name: Logistic-Regression-environment
+name: Natural-Language-Processing-environment
 
 channels:
   - conda-forge
@@ -10,4 +10,4 @@ dependencies:
   - seaborn
   - scikit-learn
   - jupyter
-  
+  - nltk
